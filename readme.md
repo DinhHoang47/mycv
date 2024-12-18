@@ -4,19 +4,26 @@ Repo of this resume https://github.com/DinhHoang47/mycv
 
 ## 1.Introduce
 
-Name: Trần Đình Hoàng
-Transform from Machenical engineering to IT fields, aiming to be a system enginnering.
-Address: Thủ Đức, Hồ Chí Minh
+My name is Tran Dinh Hoang.
+
+I graduated from Ho Chi Minh University of Technology with a degree in Mechanical Engineering. I discovered my interest in software development while working with Excel VBA. After returning to Vietnam, I transitioned into the IT field and am now aiming to become a successful System Engineer.
+
+I currently live in District 9, Ho Chi Minh City.
+
+In addition to my main job at a software company, I developed a web application to enhance my knowledge of software development and to help others learn Japanese vocabulary. Although it is still in development and has limited features, it already includes essential functions such as user login, the ability to create personal vocabulary lists, and tools for learning and tracking progress.Feel free to check it out at: nihongo.click.
 
 ## 2.Educate
 
-- HCMUT - Back khoa Set 2014 - June 2018
-
-- [x] Machenical Engineer
-
-- Cybersoft - Fullstack web application bootcamp Feb 2022 - June 2022
-
-- [x] Fullstack web developer certification
+```bash
+├──────────────────────────────────────────────────────────────────1.2022 - 6.2022
+│School                ├── Cybersoft Academic
+│Subject of study         └── Fullstack web developer
+│
+│
+├───────────────────────────────────────────────────────────────────2014 - 2018
+│University            ├──Ho Chi Minh University of Technology
+│Subject of study         └── Machenical Engineer
+```
 
 ## 3.Work experices
 
@@ -76,10 +83,10 @@ Address: Thủ Đức, Hồ Chí Minh
 
 ### Soft skills
 
-- Software development metholody: Familiar with waterfalls (also experied in machine design industrial), agile metholody
-- Planning: setting goals, reporting status, netigo deadline
-- Team collaboration:cross-functional teams to achieve shared goals,familiar with collaboration tools/work flow on Slack, Microsoft Teams
-- Japanese works manner:attention to detail, detail report and sync status
+- Software Development Methodology: Familiar with Waterfall methodology (with experience in industrial machine design) and Agile methodology.
+- Planning Skills: Experienced in planning tasks to achieve goals on time, including creating schedules, breaking down tasks, monitoring progress, and reporting status to the team.
+- Team Collaboration: Worked with cross-functional teams to achieve shared goals. Familiar with collaboration tools and workflows such as Slack and Microsoft Teams.
+- Japanese Work Manner: Strong attention to detail, thorough reporting, and regular status updates to ensure alignment.
 
 ## 5.Projects
 
